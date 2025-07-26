@@ -1,0 +1,15 @@
+
+NB: this is the link to the csv file
+
+https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data?select=Amazon+Sale+Report.csv
+
+
+
+
+
+Run in your bash or cmd for the webinterface :
+
+streamlit run Dashboard.py 
+
+
+and make sure you have the right path for the dataset
